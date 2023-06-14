@@ -12,7 +12,7 @@
 </div>
    <div class="chat-profile-details">
     <p class="chat-profile-name">
-        Karina
+        ChatBot
     </p>
     <p class="chat-profile-active">
         Active Now
